@@ -10,6 +10,4 @@ Para el desarrollo de la página de ventas online para la ferretería FerreCentr
 
 3. Diagrama de casos de usos de clientes registrados y no registrados, los clientes contarán con la opción de resgistrarse y dentro de este perfil podrán visualizar el hsitorial de sus compras, descargar facturas, modificar datos de envio cuando este se encuentre en estado de alistamiento, el cliente no registrado solo podrá visualizar el estado del pedido, la visualizacion de todos los productos en venta, promociones y chat en linea.
 
-![Caso de uso clientes](https://user-images.githubusercontent.com/111692072/201538579-07200632-cc7c-4ce4-a130-a2ff5b8fff20.png)
-
-
+![Use Cases Clientes](https://user-images.githubusercontent.com/111791091/201980967-29dcd93e-87d6-419e-983c-fae468d1c5ef.jpg)
